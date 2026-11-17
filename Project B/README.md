@@ -15,7 +15,7 @@ Diode condition	LED
 Forward bias	ON
 Reverse bias	OFF 
 # Zener diodes are used as voltage regulators
-stimulation link : https://www.tinkercad.com/things/bIKkDsGI9zp-smooth-rottis
+stimulation link : https://www.tinkercad.com/things/bIKkDsGI9zp-smooth-rottis?sharecode=vskr_an55sm5IcGq0SAv9AZMEKX2yp7hrOGFwkqd4jw
 # RESULT : When a 9V DC input supply was applied, the Zener diode maintained an approximately constant output voltage of 5.1V across the load resistor.
 
 Expected output:
