@@ -1,5 +1,5 @@
 # PN diodes are used as switches
-stimulation link : https://www.tinkercad.com/things/2eS490Q5aLv-powerful-maimu
+stimulation link :https://www.tinkercad.com/things/hXpyclFXYY4-exquisite-vihelmo?sharecode=XG-9cQiekF5m4X-NR6BvZMiNIYgFMJbG0mWA7kudlW8
 # RESULT : Demonstrating switching 
 Condition 1: Forward bias (ON)
 - Battery positive → Diode Anode.
